@@ -4,11 +4,11 @@ Automation is a technology focused website dedicated to exploring the latest inn
 🌐 Website: https://automation198.weebly.com
 
 # About
-Automation is a knowledge platform that introduces readers to modern technological advancements and concepts. It covers topics ranging from consumer electronics to aerospace technology and programming, helping enthusiasts stay updated with the rapidly evolving world of tech.
+Automation is a knowledge platform that introduces to modern technological advancements and concepts. It covers topics ranging from consumer electronics to aerospace technology and programming, helping enthusiasts stay updated with the rapidly evolving world of tech.
 The platform is founded by Himanshu Jaswal, a technology enthusiast interested in artificial intelligence, computing technologies, and emerging innovations.
 
 # Topics Covered
-Automation focuses on multiple domains within modern technology, including :
+Automation focuses on multiple domains within modern technology, such as :
 - Consumer Electronics
 - Operating Systems
 - Processors and Computer Hardware
@@ -21,12 +21,12 @@ Automation focuses on multiple domains within modern technology, including :
 These areas highlight the tools, systems, and innovations shaping the future of technology.
 
 # Features
-🧠 Technology insights and educational content
-🚀 Updates on new products and technological trends
-💻 Programming and coding knowledge
-📊 Information on processors, OS, and computing systems
-🌍 Exploration of aerospace and automotive innovation
-🔗 Community engagement and tech discussions
+- 🧠 Technology insights and educational content
+- 🚀 Updates on new products and technological trends
+- 💻 Programming and coding knowledge
+- 📊 Information on processors, OS, and computing systems
+- 🌍 Exploration of aerospace and automotive innovation
+- 🔗 Community engagement and tech discussions
 
 # Philosophy
 Technology plays a major role in shaping society and innovation. Automation aims to present technology from multiple perspectives — acknowledging both its benefits and challenges while encouraging responsible innovation.
