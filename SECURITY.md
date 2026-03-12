@@ -47,7 +47,7 @@ Since this repository is only a conceptual overview, there are **no official sup
 
 | Version         | Supported           |
 | --------------- | ------------------- |
-| 1.x             | Preview Only        |
+| 1.0             | Preview Only        |
 | Future Releases | Private Development |
 
 ---
