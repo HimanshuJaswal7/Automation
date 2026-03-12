@@ -29,12 +29,13 @@ These areas highlight the tools, systems, and innovations shaping the future of 
 - 🔗 Community engagement and tech discussions
 
 # Philosophy
-Technology plays a major role in shaping society and innovation. Automation aims to present technology from multiple perspectives — acknowledging both its benefits and challenges while encouraging responsible innovation.
-“Science & Technology are like coins that have two sides, a good side and a bad side.”
-— Himanshu Jaswal
+Technology plays a major role in shaping society and innovation. Automation aims to present technology from multiple perspectives acknowledging both its benefits and challenges while encouraging responsible innovation.
+
+“Science & Technology are like coins that have two sides, a good side and a bad side.”, Himanshu Jaswal
 
 # Founder
 Himanshu Jaswal is the Founder & CEO of Automation
+
 Background highlights :
 - Technology enthusiast and self learner
 - Experience in computer technologies and AI and Robotics related learning Participant in many Hackathons like Apple’s Swift Student Challenge (WWDC21, WWDC22, WWDC24, WWDC25, WWDC26)
