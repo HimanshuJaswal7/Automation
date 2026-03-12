@@ -57,6 +57,14 @@ Please include:
 
 Responsible disclosure will be appreciated.
 
+## Reporting a Vulnerability
+
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
+
 ## Legal
 By accessing or using this repository, you agree that:
 
@@ -65,13 +73,5 @@ By accessing or using this repository, you agree that:
 * Any misuse may result in legal action.
 
 Link : https://automation198.weebly.com/legal
+
 © Automation. All Rights Reserved.
-
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
