@@ -46,7 +46,7 @@ Since this repository is only a conceptual overview, there are **no official sup
 If you discover a security issue related to this repository or the Automation ecosystem, please report it responsibly.
 
 Contact:
-**Automation**
+**Automation,**
 Email: [automation794@gmail.com](mailto:automation794@gmail.com)
 
 Please include:
