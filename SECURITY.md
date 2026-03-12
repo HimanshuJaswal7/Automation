@@ -1,7 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
 This repository is a **basic preview and small technical overview** of the Automation project.
 
 The complete platform, architecture, and proprietary technologies are part of a **much larger private system** and are **not included in this repository**.
