@@ -54,3 +54,7 @@ and more....
 # Vision
 The goal of Automation is to build a hub of technological under one roof that inspires curiosity, learning, and innovation in the digital era.
 As technology continues to evolve, Automation aims to help it make understand the tools and ideas that shape the future.
+
+More : https://automation198.weebly.com/more
+
+© Automation. All Rights Reserved.
