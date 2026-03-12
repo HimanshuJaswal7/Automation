@@ -34,12 +34,10 @@ Technology plays a major role in shaping society and innovation. Automation aims
 — Himanshu Jaswal
 
 # Founder
-Founder & CEO of Automation : Himanshu Jaswal
-
+Himanshu Jaswal is the Founder & CEO of Automation
 Background highlights :
 - Technology enthusiast and self learner
-- Experience in computer technologies and AI-related learning
-= Participant in Apple’s Swift Student Coding Challenge (WWDC)
+- Experience in computer technologies and AI and Robotics related learning Participant in many Hackathons like Apple’s Swift Student Challenge (WWDC21, WWDC22, WWDC24, WWDC25, WWDC26)
 
 # Community
 Automation also provides opportunities for readers and enthusiasts to connect, share ideas, and stay updated with technology trends.
