@@ -1,5 +1,27 @@
 # Security Policy
+# Intellectual Property & Usage Restrictions
 
+All code, documentation, diagrams, concepts, and materials contained in this repository are proprietary intellectual property of Himanshu Jaswal and the Automation Project.
+
+Unless explicitly stated otherwise:
+
+You are NOT permitted to:
+
+Copy or reproduce the source code
+
+Reuse repository structure or system design
+
+Republish or redistribute repository content
+
+Use the code for commercial or personal projects
+
+Train AI models using this repository
+
+Create derivative works based on this repository
+
+This repository is provided strictly for informational and educational viewing purposes only.
+
+Unauthorized use, duplication, or distribution of the materials in this repository may result in legal action.
 This repository is a **basic preview and small technical overview** of the Automation project.
 
 The complete platform, architecture, and proprietary technologies are part of a **much larger private system** and are **not included in this repository**.
