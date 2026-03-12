@@ -64,6 +64,7 @@ By accessing or using this repository, you agree that:
 * No copying, redistribution, or commercial use is permitted.
 * Any misuse may result in legal action.
 
+Link : https://automation198.weebly.com/legal
 © Automation. All Rights Reserved.
 
 
